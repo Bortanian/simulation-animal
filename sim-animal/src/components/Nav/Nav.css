@@ -1,0 +1,36 @@
+.nav{
+    position: fixed;
+    background-color: #05161C;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100vw;
+    top: 0px;
+}
+.logo{
+    position: absolute;
+    top: -60px;
+    left: -50px;
+    width: 220px;
+}
+.title{
+    position: absolute;
+    left: 110px;
+    top: 37px;
+    width: 200px;
+}
+.nav-options{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    padding: 13px;
+    margin-right: 45px;
+}
+.option{
+    color: #9CCAEE;
+}
+.home{
+    height: 100px;
+    overflow: hidden;
+}

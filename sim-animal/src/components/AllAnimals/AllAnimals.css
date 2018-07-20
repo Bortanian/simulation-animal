@@ -1,0 +1,15 @@
+.browse{
+    margin-top: 100px;
+}
+.add{
+    display: flex;
+    justify-content: flex-end;
+    box-sizing: border-box;
+    padding-right: 15px;
+    height: 30px;
+    
+}
+.add-text{
+    font-size: 15px;
+    color: #F7941E;
+}
